@@ -20,5 +20,3 @@ graph TD
     J -->|Yes| K[License allows adaptation?]
     K -->|No| D
     K -->|Yes| L[ADAPT]
-    
-```mermaid
