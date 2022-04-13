@@ -3,6 +3,7 @@
 ## How to evaluate
 
 ```mermaid
+
 graph TD
     A[Identify Pedagogical Goals] --> B(Search for OER that meet these needs)
     B --> C{OER Found?}
@@ -19,4 +20,5 @@ graph TD
     J -->|Yes| K[License allows adaptation?]
     K -->|No| D
     K -->|Yes| L[ADAPT]
+    
 ```mermaid
