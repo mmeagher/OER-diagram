@@ -19,4 +19,5 @@ graph TD
     J -->|No| B
     J -->|Yes| K[License allows adaptation?]
     K -->|No| D
+    K -->|No| B
     K -->|Yes| L[ADAPT]
