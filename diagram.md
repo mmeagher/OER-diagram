@@ -1,6 +1,6 @@
 # Evaluating an OER
 
-## How to evaluate
+## Steps to evaluate
 
 ```mermaid
 
